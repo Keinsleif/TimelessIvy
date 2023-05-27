@@ -1,0 +1,20 @@
+# TOOLTIP
+timeless_ivy.hasRegenIvy=Has Timeless Ivy
+
+# ITEM
+item.regenIvy.name=Timeless Ivy
+
+# TAB
+itemGroup.timeless_ivy=Timeless Ivy
+
+#CONFIG
+manaPerDamage=Mana per Damage
+
+# LEXICON ENTRIES
+# - MYSTICAL INSTRUMENTS
+# -- TIMELESS IVY
+timeless_ivy.entry.regenIvy=Timeless Ivy
+timeless_ivy.tagline.regenIvy=Ivy that can be attached to items to have them regenerate durability
+timeless_ivy.page.regenIvy0=While &1Manasteel&0 or &1Elementium&0 tools have the ability to harness &4Mana&0 and use it to protect their bodies, other tools or armor don't have this property.<br>A handful of &1Timeless Ivy&0 can be attached on to virtually any item, allowing it to be repaired with &4Mana&0.
+timeless_ivy.regenIvy1=To apply it, one'd simply craft the tool in question alongside the ivy and 3 of an item that can be used to repair the tool in an anvil (eg. &1Diamonds&0 for a &1Diamond Pickaxe&0).<br>Due to not being in direct contact with the material, the amount of &4Mana&0 used by the ivy in comparison to &1Manasteel&0 is rather high.
+timeless_ivy.page.regenIvy2=Bring your Inferno Adze

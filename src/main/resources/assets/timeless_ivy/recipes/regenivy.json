@@ -1,0 +1,20 @@
+{
+  "result": {
+    "item": "timeless_ivy:regenivy"
+  },
+  "ingredients": [
+    {
+      "item": "botania:manaresource",
+      "data": 5
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "vine"
+    },
+    {
+      "item": "botania:manaresource",
+      "data": 7
+    }
+  ],
+  "type": "forge:ore_shapeless"
+}

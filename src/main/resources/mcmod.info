@@ -1,0 +1,17 @@
+[
+{
+  "modid": "timeless_ivy",
+  "name": "TimelessIvy",
+  "description": "Re-add Botania's removed TimelessIvy.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/kazuto28/TimelessIvy",
+  "updateUrl": "",
+  "authorList": ["Keinsleif"],
+  "credits": "The Forge, FML and Botania guys, for making this mod.",
+  "logoFile": "assets/timeless_ivy/textures/items/regenIvy.png",
+  "screenshots": [],
+  "requiredMods": ["botania"],
+  "dependencies": ["botania"],
+  "useDependencyInformation": true}
+]

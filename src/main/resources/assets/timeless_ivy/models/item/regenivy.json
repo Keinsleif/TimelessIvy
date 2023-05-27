@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "timeless_ivy:items/ivy_regen"
+  }
+}
